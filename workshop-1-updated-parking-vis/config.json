@@ -1,0 +1,9 @@
+{
+ 	"GoogleMapsAPIKey" : "AIzaSyAy5C72RxAbvq_3yAiAvoR0HFHnl6a4d9c",
+ 	"ParkingDataHost": "workshop-db.cwtu8xwzeht2.us-east-2.rds.amazonaws.com",
+ 	"ParkingDataUsername": "workshop-user",
+ 	"ParkingDataPassword": "K1YT5kqiCtIB",
+ 	"ParkingDataDB": "workshop",
+ 	"LocalParkingHost": "localhost",
+ 	"LocalParkingDataDB": "scale-workshop"
+}
